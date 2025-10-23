@@ -1,0 +1,11 @@
+enduse_cat,base_year_share
+res_heating,0.06
+res_cooling,0.06
+res_waterheater,0.04
+res_refrigeration,0.02
+res_other,0.2
+com_heating,0.02
+com_cooling,0.04
+com_refrigeration,0.04
+com_other,0.26
+everything_else,0.26

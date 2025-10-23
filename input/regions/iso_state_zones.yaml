@@ -1,0 +1,60 @@
+---
+schema_version: 1
+isos:
+  ISO-NE:
+    states:
+      CT: [ISO-NE_CT]
+      MA: [ISO-NE_NEMA, ISO-NE_WCMA, ISO-NE_SEMA]
+      ME: [ISO-NE_ME]
+      NH: [ISO-NE_NH]
+      RI: [ISO-NE_RI]
+      VT: [ISO-NE_VT]
+  NYISO:
+    states:
+      NY: [NYISO_A, NYISO_B, NYISO_C, NYISO_D, NYISO_E, NYISO_F, NYISO_G, NYISO_H, NYISO_I, NYISO_J, NYISO_K]
+  PJM:
+    states:
+      DC: [PJM_PEPCO]
+      DE: [PJM_DPL]
+      MD: [PJM_BGE, PJM_PEPCO, PJM_DPL, PJM_APS]
+      NJ: [PJM_PSEG, PJM_JCPL, PJM_RECO, PJM_AECO]
+      PA: [PJM_PECO, PJM_PPL, PJM_METED, PJM_PENELEC, PJM_DUQ, PJM_APS]
+      VA: [PJM_DOM, PJM_APS, PJM_AEP]
+      WV: [PJM_APS, PJM_AEP]
+      OH: [PJM_AEP, PJM_DAYTON, PJM_DEOK, PJM_ATSI]
+      KY: [PJM_DEOK, PJM_AEP]
+      IN: [PJM_AEP]
+      IL: [PJM_COMED]
+      MI: []
+  MISO:
+    states:
+      IL: [MISO_LRZ1, MISO_LRZ2, MISO_LRZ4]
+      IN: [MISO_LRZ6]
+      MI: [MISO_LRZ7]
+      OH: [MISO_LRZ6]
+      KY: [MISO_LRZ6]
+      MO: [MISO_LRZ1, MISO_LRZ5]
+      IA: [MISO_LRZ3]
+      MN: [MISO_LRZ1]
+      WI: [MISO_LRZ2]
+      SD: [MISO_LRZ1]
+      ND: [MISO_LRZ1]
+      LA: [MISO_LRZ9]
+      AR: [MISO_LRZ8]
+      MS: [MISO_LRZ9]
+  SPP:
+    states:
+      MO: [SPP_MO]
+      AR: [SPP_AR]
+      LA: [SPP_LA]
+      OK: [SPP_OK]
+  SOUTHEAST:
+    states:
+      NC: [DUK_SYS, PJM_DOM]
+      SC: [DUK_SYS, SCEG_SYS, SANTEE_COOPER_SYS]
+      GA: [SOCO_SYS]
+      FL: [FPL_SYS, FPC_SYS, TECO_SYS, JEA_SYS, FMPA_SYS, FRCC_SYS]
+      AL: [SOCO_SYS, TVA_SYS]
+      MS: [SOCO_SYS, TVA_SYS]
+      TN: [TVA_SYS]
+      KY: [TVA_SYS, PJM_DEOK]

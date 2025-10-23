@@ -1,0 +1,16 @@
+tech,tech_type,color,hex
+1,Coal,black,#000000
+2,Steam,grey50,#7F7F7F
+3,Turbine,sienna4,#8B4726
+4,CC,sienna2,#EE7942
+5,H2,darkblue,#00FFFF
+6,Nuclear,red,#FF0000
+7,Bio,green4,#008B00
+8,Geo,yellow2,#EEEE00
+9,MSW,purple,#A020F0
+10,Hydro,blue,#0000FF
+11,PumpHydro,lightblue,#ADD8E6
+12,Battery,hotpink,#FF69B4
+13,OffWind,dodgerblue,#00008B
+14,OnWind,dodgerblue,#1E90FF
+15,Solar,gold1,#FFD700

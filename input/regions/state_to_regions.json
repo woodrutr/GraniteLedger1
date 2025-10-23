@@ -1,0 +1,268 @@
+{
+  "AL": {
+    "regions": ["SOCO_SYS", "TVA_SYS"],
+    "weights": {
+      "SOCO_SYS": 0.333334,
+      "TVA_SYS": 0.25
+    }
+  },
+  "AR": {
+    "regions": ["MISO_LRZ8", "SPP_AR"],
+    "weights": {
+      "MISO_LRZ8": 1.0,
+      "SPP_AR": 1.0
+    }
+  },
+  "CT": {
+    "regions": ["ISO-NE_CT"],
+    "weights": {
+      "ISO-NE_CT": 1.0
+    }
+  },
+  "DC": {
+    "regions": ["PJM_PEPCO"],
+    "weights": {
+      "PJM_PEPCO": 0.5
+    }
+  },
+  "DE": {
+    "regions": ["PJM_DPL"],
+    "weights": {
+      "PJM_DPL": 0.5
+    }
+  },
+  "FL": {
+    "regions": ["FMPA_SYS", "FPC_SYS", "FPL_SYS", "JEA_SYS", "TECO_SYS", "FRCC_SYS"],
+    "weights": {
+      "FMPA_SYS": 1.0,
+      "FPC_SYS": 1.0,
+      "FPL_SYS": 1.0,
+      "JEA_SYS": 1.0,
+      "TECO_SYS": 1.0,
+      "FRCC_SYS": 1.0
+    }
+  },
+  "GA": {
+    "regions": ["SOCO_SYS"],
+    "weights": {
+      "SOCO_SYS": 0.333333
+    }
+  },
+  "IA": {
+    "regions": ["MISO_LRZ3"],
+    "weights": {
+      "MISO_LRZ3": 1.0
+    }
+  },
+  "IL": {
+    "regions": ["MISO_LRZ1", "MISO_LRZ2", "MISO_LRZ4", "PJM_COMED"],
+    "weights": {
+      "MISO_LRZ1": 0.2,
+      "MISO_LRZ2": 0.5,
+      "MISO_LRZ4": 1.0,
+      "PJM_COMED": 1.0
+    }
+  },
+  "IN": {
+    "regions": ["MISO_LRZ6", "PJM_AEP"],
+    "weights": {
+      "MISO_LRZ6": 0.333334,
+      "PJM_AEP": 0.2
+    }
+  },
+  "KY": {
+    "regions": ["MISO_LRZ6", "PJM_AEP", "PJM_DEOK", "TVA_SYS"],
+    "weights": {
+      "MISO_LRZ6": 0.333333,
+      "PJM_AEP": 0.2,
+      "PJM_DEOK": 0.5,
+      "TVA_SYS": 0.25
+    }
+  },
+  "LA": {
+    "regions": ["MISO_LRZ9", "SPP_LA"],
+    "weights": {
+      "MISO_LRZ9": 0.5,
+      "SPP_LA": 1.0
+    }
+  },
+  "MA": {
+    "regions": ["ISO-NE_NEMA", "ISO-NE_SEMA", "ISO-NE_WCMA"],
+    "weights": {
+      "ISO-NE_NEMA": 1.0,
+      "ISO-NE_SEMA": 1.0,
+      "ISO-NE_WCMA": 1.0
+    }
+  },
+  "MD": {
+    "regions": ["PJM_APS", "PJM_BGE", "PJM_DPL", "PJM_PEPCO"],
+    "weights": {
+      "PJM_APS": 0.25,
+      "PJM_BGE": 1.0,
+      "PJM_DPL": 0.5,
+      "PJM_PEPCO": 0.5
+    }
+  },
+  "ME": {
+    "regions": ["ISO-NE_ME"],
+    "weights": {
+      "ISO-NE_ME": 1.0
+    }
+  },
+  "MI": {
+    "regions": ["MISO_LRZ7"],
+    "weights": {
+      "MISO_LRZ7": 1.0
+    }
+  },
+  "MN": {
+    "regions": ["MISO_LRZ1"],
+    "weights": {
+      "MISO_LRZ1": 0.2
+    }
+  },
+  "MO": {
+    "regions": ["MISO_LRZ1", "MISO_LRZ5", "SPP_MO"],
+    "weights": {
+      "MISO_LRZ1": 0.2,
+      "MISO_LRZ5": 1.0,
+      "SPP_MO": 1.0
+    }
+  },
+  "MS": {
+    "regions": ["MISO_LRZ9", "MISO_LRZ10", "SOCO_SYS", "TVA_SYS"],
+    "weights": {
+      "MISO_LRZ9": 0.5,
+      "MISO_LRZ10": 1.0,
+      "SOCO_SYS": 0.333333,
+      "TVA_SYS": 0.25
+    }
+  },
+  "NC": {
+    "regions": ["DUK_SYS", "PJM_DOM"],
+    "weights": {
+      "DUK_SYS": 0.5,
+      "PJM_DOM": 0.15
+    }
+  },
+  "ND": {
+    "regions": ["MISO_LRZ1"],
+    "weights": {
+      "MISO_LRZ1": 0.2
+    }
+  },
+  "NH": {
+    "regions": ["ISO-NE_NH"],
+    "weights": {
+      "ISO-NE_NH": 1.0
+    }
+  },
+  "NJ": {
+    "regions": ["PJM_AECO", "PJM_JCPL", "PJM_PSEG", "PJM_RECO"],
+    "weights": {
+      "PJM_AECO": 1.0,
+      "PJM_JCPL": 1.0,
+      "PJM_PSEG": 1.0,
+      "PJM_RECO": 1.0
+    }
+  },
+  "NY": {
+    "regions": [
+      "NYISO_A", "NYISO_B", "NYISO_C", "NYISO_D", "NYISO_E", 
+      "NYISO_F", "NYISO_G", "NYISO_H", "NYISO_I", "NYISO_J", "NYISO_K"
+    ],
+    "weights": {
+      "NYISO_A": 1.0,
+      "NYISO_B": 1.0,
+      "NYISO_C": 1.0,
+      "NYISO_D": 1.0,
+      "NYISO_E": 1.0,
+      "NYISO_F": 1.0,
+      "NYISO_G": 1.0,
+      "NYISO_H": 1.0,
+      "NYISO_I": 1.0,
+      "NYISO_J": 1.0,
+      "NYISO_K": 1.0
+    }
+  },
+  "OH": {
+    "regions": ["MISO_LRZ6", "PJM_AEP", "PJM_ATSI", "PJM_DAYTON", "PJM_DEOK"],
+    "weights": {
+      "MISO_LRZ6": 0.333333,
+      "PJM_AEP": 0.2,
+      "PJM_ATSI": 1.0,
+      "PJM_DAYTON": 1.0,
+      "PJM_DEOK": 0.5
+    }
+  },
+  "OK": {
+    "regions": ["SPP_OK"],
+    "weights": {
+      "SPP_OK": 1.0
+    }
+  },
+  "PA": {
+    "regions": ["PJM_APS", "PJM_DUQ", "PJM_METED", "PJM_PECO", "PJM_PENELEC", "PJM_PPL"],
+    "weights": {
+      "PJM_APS": 0.25,
+      "PJM_DUQ": 1.0,
+      "PJM_METED": 1.0,
+      "PJM_PECO": 1.0,
+      "PJM_PENELEC": 1.0,
+      "PJM_PPL": 1.0
+    }
+  },
+  "RI": {
+    "regions": ["ISO-NE_RI"],
+    "weights": {
+      "ISO-NE_RI": 1.0
+    }
+  },
+  "SC": {
+    "regions": ["DUK_SYS", "SCEG_SYS", "SANTEE_COOPER_SYS"],
+    "weights": {
+      "DUK_SYS": 0.5,
+      "SCEG_SYS": 1.0,
+      "SANTEE_COOPER_SYS": 1.0
+    }
+  },
+  "SD": {
+    "regions": ["MISO_LRZ1"],
+    "weights": {
+      "MISO_LRZ1": 0.2
+    }
+  },
+  "TN": {
+    "regions": ["TVA_SYS"],
+    "weights": {
+      "TVA_SYS": 0.25
+    }
+  },
+  "VA": {
+    "regions": ["PJM_AEP", "PJM_APS", "PJM_DOM"],
+    "weights": {
+      "PJM_AEP": 0.2,
+      "PJM_APS": 0.25,
+      "PJM_DOM": 0.85
+    }
+  },
+  "VT": {
+    "regions": ["ISO-NE_VT"],
+    "weights": {
+      "ISO-NE_VT": 1.0
+    }
+  },
+  "WI": {
+    "regions": ["MISO_LRZ2"],
+    "weights": {
+      "MISO_LRZ2": 0.5
+    }
+  },
+  "WV": {
+    "regions": ["PJM_AEP", "PJM_APS"],
+    "weights": {
+      "PJM_AEP": 0.2,
+      "PJM_APS": 0.25
+    }
+  }
+}

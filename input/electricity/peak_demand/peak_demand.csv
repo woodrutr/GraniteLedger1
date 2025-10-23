@@ -1,0 +1,1900 @@
+
+Year,Region_ID,Scenario,Peak_Demand_MW
+2025,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,2233.0
+2026,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,2241.0
+2027,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,2307.0
+2028,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,2412.0
+2029,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,2559.0
+2030,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,2725.0
+2031,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,2916.0
+2032,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,3131.0
+2033,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,3368.0
+2034,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,3622.0
+2035,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,3885.0
+2036,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,4150.0
+2037,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,4413.0
+2038,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,4674.0
+2039,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,4930.0
+2040,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,5162.0
+2041,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,5361.0
+2042,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,5530.0
+2043,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,5672.0
+2044,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,5791.0
+2045,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,5890.0
+2046,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,6047.484357767575
+2047,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,6209.179466458998
+2048,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,6375.1979113722255
+2049,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,6545.655288063845
+2050,CANADA_MARITIMES,Maine per-capita proxy for Canadian demand,6720.670282836114
+2025,DUK_SYS,Estimated from adjacent per capita demand,47513.897239769176
+2026,DUK_SYS,Estimated from adjacent per capita demand,48358.27455428822
+2027,DUK_SYS,Estimated from adjacent per capita demand,49441.784772799074
+2028,DUK_SYS,Estimated from adjacent per capita demand,49979.09037024126
+2029,DUK_SYS,Estimated from adjacent per capita demand,50662.976019498805
+2030,DUK_SYS,Estimated from adjacent per capita demand,51483.47631027008
+2031,DUK_SYS,Estimated from adjacent per capita demand,52379.016882625125
+2032,DUK_SYS,Estimated from adjacent per capita demand,53323.09464873417
+2033,DUK_SYS,Estimated from adjacent per capita demand,54227.620132133445
+2034,DUK_SYS,Estimated from adjacent per capita demand,55161.47898251785
+2035,DUK_SYS,Estimated from adjacent per capita demand,56110.29219313954
+2036,DUK_SYS,Estimated from adjacent per capita demand,57076.19388740531
+2037,DUK_SYS,Estimated from adjacent per capita demand,58059.503470369
+2038,DUK_SYS,Estimated from adjacent per capita demand,59060.54648544445
+2039,DUK_SYS,Estimated from adjacent per capita demand,60079.65473471817
+2040,DUK_SYS,Estimated from adjacent per capita demand,61117.16640165244
+2041,DUK_SYS,Estimated from adjacent per capita demand,62173.426176225796
+2042,DUK_SYS,Estimated from adjacent per capita demand,63248.78538256049
+2043,DUK_SYS,Estimated from adjacent per capita demand,64343.60210908643
+2044,DUK_SYS,Estimated from adjacent per capita demand,65458.24134129248
+2045,DUK_SYS,Estimated from adjacent per capita demand,66593.0750971171
+2046,DUK_SYS,Estimated from adjacent per capita demand,67748.48256503114
+2047,DUK_SYS,Estimated from adjacent per capita demand,68924.85024486689
+2048,DUK_SYS,Estimated from adjacent per capita demand,70122.57209144827
+2049,DUK_SYS,Estimated from adjacent per capita demand,71342.04966107874
+2050,DUK_SYS,Estimated from adjacent per capita demand,72583.69226094366
+2025,ENTERGY_SYS,Estimated from adjacent per capita demand,21235.91937289193
+2026,ENTERGY_SYS,Estimated from adjacent per capita demand,21613.306403068378
+2027,ENTERGY_SYS,Estimated from adjacent per capita demand,22097.571785970755
+2028,ENTERGY_SYS,Estimated from adjacent per capita demand,22337.715807167475
+2029,ENTERGY_SYS,Estimated from adjacent per capita demand,22643.37249608575
+2030,ENTERGY_SYS,Estimated from adjacent per capita demand,23010.087900051167
+2031,ENTERGY_SYS,Estimated from adjacent per capita demand,23410.34189929094
+2032,ENTERGY_SYS,Estimated from adjacent per capita demand,23832.289171299835
+2033,ENTERGY_SYS,Estimated from adjacent per capita demand,24236.558897676136
+2034,ENTERGY_SYS,Estimated from adjacent per capita demand,24653.938914986647
+2035,ENTERGY_SYS,Estimated from adjacent per capita demand,25078.002652360567
+2036,ENTERGY_SYS,Estimated from adjacent per capita demand,25509.703937524755
+2037,ENTERGY_SYS,Estimated from adjacent per capita demand,25949.18552576482
+2038,ENTERGY_SYS,Estimated from adjacent per capita demand,26396.592915852492
+2039,ENTERGY_SYS,Estimated from adjacent per capita demand,26852.074403818326
+2040,ENTERGY_SYS,Estimated from adjacent per capita demand,27315.781137792772
+2041,ENTERGY_SYS,Estimated from adjacent per capita demand,27787.86717393662
+2042,ENTERGY_SYS,Estimated from adjacent per capita demand,28268.48953348297
+2043,ENTERGY_SYS,Estimated from adjacent per capita demand,28757.808260912858
+2044,ENTERGY_SYS,Estimated from adjacent per capita demand,29255.986483287295
+2045,ENTERGY_SYS,Estimated from adjacent per capita demand,29763.190470758913
+2046,ENTERGY_SYS,Estimated from adjacent per capita demand,30279.589698286876
+2047,ENTERGY_SYS,Estimated from adjacent per capita demand,30805.356908579164
+2048,ENTERGY_SYS,Estimated from adjacent per capita demand,31340.66817628685
+2049,ENTERGY_SYS,Estimated from adjacent per capita demand,31885.70297347556
+2050,ENTERGY_SYS,Estimated from adjacent per capita demand,32440.644236399577
+2025,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS,8065.053000000001
+2026,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS,8158.213000000001
+2027,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS,8232.193000000001
+2028,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS,8304.392
+2029,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS,8415.088000000002
+2030,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS,8504.275000000001
+2031,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS,8617.985
+2032,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS,8745.806
+2033,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS,8853.351
+2034,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS,8967.335000000001
+2035,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS (extrapolated),9082.059458931686
+2036,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS (extrapolated),9198.251656213411
+2037,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS (extrapolated),9315.930369496296
+2038,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS (extrapolated),9435.114616665129
+2039,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS (extrapolated),9555.823658911831
+2040,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS (extrapolated),9678.07700384823
+2041,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS (extrapolated),9801.894408658654
+2042,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS (extrapolated),9927.295883292853
+2043,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS (extrapolated),10054.301693699794
+2044,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS (extrapolated),10182.932365102795
+2045,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS (extrapolated),10313.208685316587
+2046,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS (extrapolated),10445.151708106803
+2047,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS (extrapolated),10578.78275659244
+2048,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS (extrapolated),10714.123426691847
+2049,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS (extrapolated),10851.19559061285
+2050,FMPA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FMPA_SYS (extrapolated),10990.02140038743
+2025,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS,10302.075
+2026,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS,10421.075
+2027,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS,10515.575
+2028,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS,10607.8
+2029,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS,10749.2
+2030,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS,10863.125
+2031,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS,11008.375
+2032,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS,11171.65
+2033,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS,11309.025
+2034,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS,11454.625
+2035,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS (extrapolated),11601.170841701058
+2036,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS (extrapolated),11749.591531659466
+2037,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS (extrapolated),11899.91105592592
+2038,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS (extrapolated),12052.153707418956
+2039,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS (extrapolated),12206.344089850878
+2040,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS (extrapolated),12362.507121703942
+2041,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS (extrapolated),12520.668040257402
+2042,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS (extrapolated),12680.852405666052
+2043,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS (extrapolated),12843.086105090975
+2044,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS (extrapolated),13007.39535688313
+2045,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS (extrapolated),13173.806714820455
+2046,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS (extrapolated),13342.3470723992
+2047,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS (extrapolated),13513.043667180122
+2048,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS (extrapolated),13685.924085190316
+2049,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS (extrapolated),13861.016265381377
+2050,FPC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPC_SYS (extrapolated),14038.348504144526
+2025,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS,32142.474
+2026,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS,32513.754
+2027,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS,32808.594000000005
+2028,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS,33096.336
+2029,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS,33537.504
+2030,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS,33892.950000000004
+2031,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS,34346.130000000005
+2032,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS,34855.548
+2033,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS,35284.158
+2034,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS,35738.43
+2035,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS (extrapolated),36195.653026107306
+2036,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS (extrapolated),36658.725578777536
+2037,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS (extrapolated),37127.72249448888
+2038,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS (extrapolated),37602.71956714715
+2039,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS (extrapolated),38083.79356033474
+2040,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS (extrapolated),38571.0222197163
+2041,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS (extrapolated),39064.4842856031
+2042,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS (extrapolated),39564.259505678085
+2043,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS (extrapolated),40070.42864788385
+2044,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS (extrapolated),40583.07351347537
+2045,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS (extrapolated),41102.27695023983
+2046,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS (extrapolated),41628.12286588551
+2047,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS (extrapolated),42160.69624160199
+2048,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS (extrapolated),42700.0831457938
+2049,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS (extrapolated),43246.3707479899
+2050,FPL_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to FPL_SYS (extrapolated),43799.64733293093
+2025,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand,58869.0
+2026,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand,59549.0
+2027,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand,60089.0
+2028,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand,60616.0
+2029,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand,61424.0
+2030,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand,62075.0
+2031,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand,62905.0
+2032,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand,63838.0
+2033,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand,64623.0
+2034,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand,65455.0
+2035,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand (extrapolated),66292.40480972033
+2036,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand (extrapolated),67140.52303805409
+2037,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand (extrapolated),67999.49174814812
+2038,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand (extrapolated),68869.44975667975
+2039,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand (extrapolated),69750.53765629073
+2040,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand (extrapolated),70642.89783830824
+2041,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand (extrapolated),71546.67451575659
+2042,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand (extrapolated),72462.01374666316
+2043,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand (extrapolated),73389.06345766272
+2044,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand (extrapolated),74327.9734679036
+2045,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand (extrapolated),75278.89551325976
+2046,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand (extrapolated),76241.98327085258
+2047,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand (extrapolated),77217.39238388641
+2048,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand (extrapolated),78205.28048680181
+2049,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand (extrapolated),79205.80723075072
+2050,FRCC_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand (extrapolated),80219.1343093973
+2025,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6826.0
+2026,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6848.0
+2027,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6874.0
+2028,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6930.0
+2029,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6980.0
+2030,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),7032.0
+2031,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),7101.0
+2032,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),7183.0
+2033,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),7262.0
+2034,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),7355.0
+2035,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),7451.0
+2036,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),7554.0
+2037,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),7657.0
+2038,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),7763.0
+2039,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),8036.0
+2040,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),8400.0
+2041,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),8761.0
+2042,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),9126.0
+2043,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),9484.0
+2044,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),9820.0
+2045,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),10155.0
+2046,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),10547.755546371032
+2047,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),10955.701335893737
+2048,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),11379.424867558608
+2049,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),11819.536362511448
+2050,ISO-NE_CT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),12276.669642857138
+2025,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2233.0
+2026,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2241.0
+2027,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2307.0
+2028,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2412.0
+2029,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2559.0
+2030,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2725.0
+2031,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2916.0
+2032,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3131.0
+2033,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3368.0
+2034,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3622.0
+2035,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3885.0
+2036,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4150.0
+2037,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4413.0
+2038,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4674.0
+2039,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4930.0
+2040,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5162.0
+2041,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5361.0
+2042,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5530.0
+2043,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5672.0
+2044,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5791.0
+2045,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5890.0
+2046,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),6047.484357767575
+2047,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),6209.179466458998
+2048,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),6375.1979113722255
+2049,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),6545.655288063845
+2050,ISO-NE_ME,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),6720.670282836114
+2025,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5676.0
+2026,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5698.0
+2027,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5723.0
+2028,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5806.0
+2029,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5886.0
+2030,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5969.0
+2031,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6063.0
+2032,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6163.0
+2033,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6234.0
+2034,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6320.0
+2035,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6408.0
+2036,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6502.0
+2037,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6595.0
+2038,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6698.0
+2039,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6853.0
+2040,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),7139.0
+2041,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),7390.0
+2042,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),7623.0
+2043,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),7849.0
+2044,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),8062.0
+2045,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),8254.0
+2046,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),8497.083402466396
+2047,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),8747.32570250423
+2048,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),9004.937732337823
+2049,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),9270.136533279756
+2050,ISO-NE_NEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),9543.14553859084
+2025,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2691.0
+2026,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2703.0
+2027,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2716.0
+2028,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2744.0
+2029,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2775.0
+2030,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2807.0
+2031,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2843.0
+2032,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2882.0
+2033,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2923.0
+2034,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2968.0
+2035,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3008.0
+2036,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3053.0
+2037,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3103.0
+2038,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3160.0
+2039,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3327.0
+2040,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3512.0
+2041,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3723.0
+2042,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3949.0
+2043,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4179.0
+2044,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4406.0
+2045,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4616.0
+2046,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),4875.375367233143
+2047,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),5149.32516711952
+2048,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),5438.668344377859
+2049,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),5744.269860643518
+2050,ISO-NE_NH,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),6067.043280182229
+2025,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1920.0
+2026,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1926.0
+2027,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1933.0
+2028,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1948.0
+2029,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1965.0
+2030,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1982.0
+2031,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2000.0
+2032,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2020.0
+2033,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2044.0
+2034,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2068.0
+2035,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2093.0
+2036,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2122.0
+2037,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2154.0
+2038,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2203.0
+2039,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2331.0
+2040,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2457.0
+2041,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2601.0
+2042,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2744.0
+2043,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2887.0
+2044,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3028.0
+2045,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3167.0
+2046,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),3331.935953096144
+2047,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),3505.4616973586067
+2048,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),3688.0245852954135
+2049,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),3880.095267334475
+2050,ISO-NE_RI,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),4082.1689051689073
+2025,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3835.0
+2026,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3854.0
+2027,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3876.0
+2028,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3913.0
+2029,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3958.0
+2030,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4000.0
+2031,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4043.0
+2032,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4086.0
+2033,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4140.0
+2034,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4199.0
+2035,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4254.0
+2036,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4313.0
+2037,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4378.0
+2038,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4443.0
+2039,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4615.0
+2040,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4842.0
+2041,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5049.0
+2042,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5246.0
+2043,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5440.0
+2044,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5625.0
+2045,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5798.0
+2046,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),6010.753198450947
+2047,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),6231.313213640617
+2048,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),6459.966510769227
+2049,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),6697.010066659563
+2050,ISO-NE_SEMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),6942.751755472948
+2025,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1026.0
+2026,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1030.0
+2027,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1045.0
+2028,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1089.0
+2029,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1142.0
+2030,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1210.0
+2031,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1292.0
+2032,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1385.0
+2033,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1487.0
+2034,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1602.0
+2035,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1723.0
+2036,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1856.0
+2037,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),1984.0
+2038,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2120.0
+2039,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2248.0
+2040,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2360.0
+2041,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2463.0
+2042,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2554.0
+2043,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2635.0
+2044,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2705.0
+2045,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),2769.0
+2046,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),2858.940693172943
+2047,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),2951.802776121412
+2048,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),3047.6811393551343
+2049,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),3146.6737555500445
+2050,ISO-NE_VT,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),3248.881779661016
+2025,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3784.0
+2026,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3799.0
+2027,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3818.0
+2028,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3862.0
+2029,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3912.0
+2030,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),3964.0
+2031,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4013.0
+2032,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4061.0
+2033,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4113.0
+2034,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4174.0
+2035,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4413.0
+2036,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4674.0
+2037,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),4934.0
+2038,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5197.0
+2039,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5458.0
+2040,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5710.0
+2041,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),5942.0
+2042,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6156.0
+2043,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6353.0
+2044,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6533.0
+2045,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons),6708.0
+2046,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),6927.626152756475
+2047,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),7154.443069820434
+2048,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),7388.686183496625
+2049,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),7630.5986343622
+2050,ISO-NE_WCMA,ISO-NE 2025 Seasonal Peaks (Gross max across seasons) (extrapolated after 2045),7880.431523642727
+2025,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS,3061.188
+2026,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS,3096.548
+2027,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS,3124.628
+2028,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS,3152.032
+2029,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS,3194.048
+2030,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS,3227.9
+2031,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS,3271.06
+2032,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS,3319.576
+2033,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS,3360.396
+2034,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS,3403.66
+2035,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS (extrapolated),3447.2050501054573
+2036,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS (extrapolated),3491.3071979788124
+2037,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS (extrapolated),3535.9735709037022
+2038,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS (extrapolated),3581.2113873473468
+2039,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS (extrapolated),3627.027958127118
+2040,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS (extrapolated),3673.430687592028
+2041,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS (extrapolated),3720.427074819343
+2042,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS (extrapolated),3768.024714826484
+2043,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS (extrapolated),3816.231299798461
+2044,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS (extrapolated),3865.0546203309873
+2045,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS (extrapolated),3914.502566689508
+2046,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS (extrapolated),3964.583130084334
+2047,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS (extrapolated),4015.304403962093
+2048,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS (extrapolated),4066.674585313694
+2049,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS (extrapolated),4118.701975999037
+2050,JEA_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to JEA_SYS (extrapolated),4171.394984088659
+2025,MARITIMES,Maine per-capita proxy for Canadian demand,2233.0
+2026,MARITIMES,Maine per-capita proxy for Canadian demand,2241.0
+2027,MARITIMES,Maine per-capita proxy for Canadian demand,2307.0
+2028,MARITIMES,Maine per-capita proxy for Canadian demand,2412.0
+2029,MARITIMES,Maine per-capita proxy for Canadian demand,2559.0
+2030,MARITIMES,Maine per-capita proxy for Canadian demand,2725.0
+2031,MARITIMES,Maine per-capita proxy for Canadian demand,2916.0
+2032,MARITIMES,Maine per-capita proxy for Canadian demand,3131.0
+2033,MARITIMES,Maine per-capita proxy for Canadian demand,3368.0
+2034,MARITIMES,Maine per-capita proxy for Canadian demand,3622.0
+2035,MARITIMES,Maine per-capita proxy for Canadian demand,3885.0
+2036,MARITIMES,Maine per-capita proxy for Canadian demand,4150.0
+2037,MARITIMES,Maine per-capita proxy for Canadian demand,4413.0
+2038,MARITIMES,Maine per-capita proxy for Canadian demand,4674.0
+2039,MARITIMES,Maine per-capita proxy for Canadian demand,4930.0
+2040,MARITIMES,Maine per-capita proxy for Canadian demand,5162.0
+2041,MARITIMES,Maine per-capita proxy for Canadian demand,5361.0
+2042,MARITIMES,Maine per-capita proxy for Canadian demand,5530.0
+2043,MARITIMES,Maine per-capita proxy for Canadian demand,5672.0
+2044,MARITIMES,Maine per-capita proxy for Canadian demand,5791.0
+2045,MARITIMES,Maine per-capita proxy for Canadian demand,5890.0
+2046,MARITIMES,Maine per-capita proxy for Canadian demand,6047.484357767575
+2047,MARITIMES,Maine per-capita proxy for Canadian demand,6209.179466458998
+2048,MARITIMES,Maine per-capita proxy for Canadian demand,6375.1979113722255
+2049,MARITIMES,Maine per-capita proxy for Canadian demand,6545.655288063845
+2050,MARITIMES,Maine per-capita proxy for Canadian demand,6720.670282836114
+2025,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),17033.0
+2026,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),17149.0
+2027,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),17277.0
+2028,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),17444.0
+2029,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),17586.0
+2030,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),17696.0
+2031,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),17815.0
+2032,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),17942.0
+2033,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),18055.0
+2034,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),18173.0
+2035,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),18284.0
+2036,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),18410.0
+2037,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),18535.0
+2038,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),18638.0
+2039,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),18709.0
+2040,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),18776.0
+2041,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),18776.0
+2042,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),18798.0
+2043,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak),18879.0
+2044,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),18927.572670145844
+2045,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),18976.270310061544
+2046,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),19025.09324127448
+2047,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),19074.04178613927
+2048,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),19123.116267839898
+2049,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),19172.31701039186
+2050,MISO_LRZ1,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),19221.644338644277
+2025,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),11757.0
+2026,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),11846.0
+2027,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),11940.0
+2028,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),12039.0
+2029,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),12145.0
+2030,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),12252.0
+2031,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),12356.0
+2032,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),12457.0
+2033,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),12558.0
+2034,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),12666.0
+2035,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),12780.0
+2036,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),12896.0
+2037,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),13017.0
+2038,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),13137.0
+2039,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),13246.0
+2040,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),13365.0
+2041,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),13479.0
+2042,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),13590.0
+2043,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak),13696.0
+2044,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),13810.622576574677
+2045,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),13926.204435791042
+2046,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),14042.753605938242
+2047,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),14160.278182494603
+2048,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),14278.786328689965
+2049,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),14398.286276072684
+2050,MISO_LRZ2,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),14518.786325081388
+2025,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),9848.0
+2026,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),10007.0
+2027,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),10153.0
+2028,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),10281.0
+2029,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),10408.0
+2030,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),10540.0
+2031,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),10671.0
+2032,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),10813.0
+2033,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),10951.0
+2034,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),11110.0
+2035,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),11274.0
+2036,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),11452.0
+2037,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),11621.0
+2038,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),11797.0
+2039,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),11951.0
+2040,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),12118.0
+2041,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),12298.0
+2042,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),12500.0
+2043,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak),12702.0
+2044,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),12891.166395833485
+2045,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),13083.149979929656
+2046,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),13277.992707677431
+2047,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),13475.7371592925
+2048,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),13676.426549122663
+2049,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),13880.10473509172
+2050,MISO_LRZ3,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),14086.81622828402
+2025,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9820.0
+2026,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9713.0
+2027,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9677.0
+2028,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9647.0
+2029,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9627.0
+2030,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9621.0
+2031,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9622.0
+2032,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9625.0
+2033,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9628.0
+2034,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9628.0
+2035,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9638.0
+2036,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9643.0
+2037,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9645.0
+2038,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9641.0
+2039,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9634.0
+2040,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9633.0
+2041,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9617.0
+2042,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9616.0
+2043,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak),9615.0
+2044,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),9609.808420123269
+2045,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),9604.61964341883
+2046,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),9599.433668373124
+2047,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),9594.250493473412
+2048,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),9589.07011720776
+2049,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),9583.892538065058
+2050,MISO_LRZ4,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),9578.717754535011
+2025,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),15357.0
+2026,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),15646.0
+2027,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),15934.0
+2028,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),16180.0
+2029,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),16440.0
+2030,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),16661.0
+2031,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),16862.0
+2032,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),17073.0
+2033,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),17271.0
+2034,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),17484.0
+2035,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),17677.0
+2036,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),17897.0
+2037,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),18148.0
+2038,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),18366.0
+2039,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),18579.0
+2040,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),18809.0
+2041,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),19013.0
+2042,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),19232.0
+2043,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak),19447.0
+2044,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),19670.71839275549
+2045,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),19897.010443106345
+2046,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),20125.90575842341
+2047,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),20357.43428668088
+2048,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),20591.6263203746
+2049,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),20828.51250048546
+2050,MISO_LRZ6,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),21068.12382048835
+2025,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),19436.0
+2026,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),19569.0
+2027,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),19603.0
+2028,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),19601.0
+2029,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),19645.0
+2030,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),19706.0
+2031,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),19784.0
+2032,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),19873.0
+2033,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),19966.0
+2034,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),20068.0
+2035,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),20204.0
+2036,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),20328.0
+2037,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),20443.0
+2038,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),20552.0
+2039,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),20636.0
+2040,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),20734.0
+2041,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),20827.0
+2042,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),20938.0
+2043,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak),21044.0
+2044,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),21143.804448056973
+2045,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),21244.08223425555
+2046,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),21344.83560347561
+2047,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),21446.0668112437
+2048,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),21547.778123783577
+2049,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),21649.97181806691
+2050,MISO_LRZ7,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),21752.650181864246
+2025,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),7375.0
+2026,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),7457.0
+2027,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),7556.0
+2028,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),7654.0
+2029,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),7752.0
+2030,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),7838.0
+2031,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),7917.0
+2032,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),7997.0
+2033,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),8066.0
+2034,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),8140.0
+2035,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),8224.0
+2036,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),8315.0
+2037,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),8405.0
+2038,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),8503.0
+2039,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),8603.0
+2040,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),8712.0
+2041,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),8811.0
+2042,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),8910.0
+2043,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak),9008.0
+2044,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),9112.543556590135
+2045,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),9218.30040749916
+2046,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),9325.284633777612
+2047,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),9433.51047989556
+2048,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),9542.992355639188
+2049,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),9653.7448380294
+2050,MISO_LRZ8,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),9765.782673262667
+2025,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),20828.0
+2026,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),21097.0
+2027,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),21437.0
+2028,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),21780.0
+2029,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),22040.0
+2030,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),22267.0
+2031,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),22415.0
+2032,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),22474.0
+2033,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),22578.0
+2034,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),22769.0
+2035,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),22855.0
+2036,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),23001.0
+2037,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),23185.0
+2038,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),23356.0
+2039,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),23589.0
+2040,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),23788.0
+2041,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),24007.0
+2042,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),24204.0
+2043,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak),24393.0
+2044,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),24605.86096050722
+2045,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),24820.579412446736
+2046,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),25037.17156487076
+2047,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),25255.653768276752
+2048,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),25476.04251584176
+2049,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),25698.35444466744
+2050,MISO_LRZ9,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),25922.606337036024
+2025,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),90899.0
+2026,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),91666.0
+2027,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),92394.0
+2028,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),93036.0
+2029,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),93723.0
+2030,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),94374.0
+2031,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),95021.0
+2032,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),95698.0
+2033,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),96346.0
+2034,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),97048.0
+2035,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),97780.0
+2036,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),98555.0
+2037,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),99337.0
+2038,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),100055.0
+2039,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),100657.0
+2040,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),101293.0
+2041,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),101817.0
+2042,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),102434.0
+2043,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak),103105.0
+2044,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),103726.06739435064
+2045,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),104350.8758750533
+2046,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),104979.44797706512
+2047,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),105611.80637108562
+2048,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),106247.97386437454
+2049,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),106887.9734015743
+2050,MISO_NORTH,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),107531.8280655376
+2025,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),32896.0
+2026,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),33293.0
+2027,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),33774.0
+2028,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),34253.0
+2029,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),34639.0
+2030,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),34977.0
+2031,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),35231.0
+2032,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),35392.0
+2033,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),35581.0
+2034,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),35869.0
+2035,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),36074.0
+2036,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),36340.0
+2037,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),36639.0
+2038,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),36935.0
+2039,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),37296.0
+2040,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),37636.0
+2041,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),37981.0
+2042,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),38304.0
+2043,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak),38618.0
+2044,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),38963.6930318904
+2045,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),39312.48057080595
+2046,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),39664.39031754722
+2047,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),40019.45022088134
+2048,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),40377.68847976174
+2049,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),40739.1335455677
+2050,MISO_SOUTH,MISO 2023 Forecast Table 48 (July non-coincident peak) (extrapolated beyond 2043),41103.814124364
+2025,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2220.0
+2026,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2308.0
+2027,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2374.0
+2028,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2428.0
+2029,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2471.0
+2030,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2526.0
+2031,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2602.0
+2032,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2698.0
+2033,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2785.0
+2034,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2914.0
+2035,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3062.0
+2036,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3235.0
+2037,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3411.0
+2038,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3594.0
+2039,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3792.0
+2040,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3991.0
+2041,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4187.0
+2042,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4367.0
+2043,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4529.0
+2044,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4672.0
+2045,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4793.0
+2046,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4898.0
+2047,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4984.0
+2048,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,5056.0
+2049,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,5106.0
+2050,NYISO_A,NYISO 2024 Gold Book Baseline Summer Non-Coincident,5138.0
+2025,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1526.0
+2026,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1597.0
+2027,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1639.0
+2028,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1660.0
+2029,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1683.0
+2030,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1714.0
+2031,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1752.0
+2032,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1803.0
+2033,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1848.0
+2034,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1923.0
+2035,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2011.0
+2036,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2115.0
+2037,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2221.0
+2038,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2327.0
+2039,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2441.0
+2040,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2557.0
+2041,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2673.0
+2042,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2780.0
+2043,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2874.0
+2044,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2954.0
+2045,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3025.0
+2046,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3088.0
+2047,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3140.0
+2048,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3181.0
+2049,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3210.0
+2050,NYISO_B,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3229.0
+2025,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2518.0
+2026,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2486.0
+2027,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2592.0
+2028,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2680.0
+2029,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2803.0
+2030,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2947.0
+2031,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3127.0
+2032,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3238.0
+2033,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3396.0
+2034,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3577.0
+2035,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3735.0
+2036,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3882.0
+2037,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4015.0
+2038,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4137.0
+2039,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4278.0
+2040,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4419.0
+2041,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4567.0
+2042,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4705.0
+2043,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4821.0
+2044,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4924.0
+2045,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,5003.0
+2046,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,5085.0
+2047,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,5158.0
+2048,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,5204.0
+2049,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,5241.0
+2050,NYISO_C,NYISO 2024 Gold Book Baseline Summer Non-Coincident,5252.0
+2025,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,878.0
+2026,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1043.0
+2027,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1194.0
+2028,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1284.0
+2029,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1285.0
+2030,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1290.0
+2031,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1290.0
+2032,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1291.0
+2033,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1294.0
+2034,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1298.0
+2035,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1303.0
+2036,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1310.0
+2037,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1317.0
+2038,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1323.0
+2039,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1330.0
+2040,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1338.0
+2041,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1345.0
+2042,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1352.0
+2043,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1357.0
+2044,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1362.0
+2045,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1366.0
+2046,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1370.0
+2047,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1373.0
+2048,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1374.0
+2049,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1376.0
+2050,NYISO_D,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1376.0
+2025,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1306.0
+2026,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1315.0
+2027,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1312.0
+2028,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1327.0
+2029,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1347.0
+2030,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1373.0
+2031,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1401.0
+2032,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1439.0
+2033,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1483.0
+2034,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1550.0
+2035,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1630.0
+2036,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1718.0
+2037,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1811.0
+2038,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1909.0
+2039,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2013.0
+2040,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2117.0
+2041,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2218.0
+2042,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2310.0
+2043,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2392.0
+2044,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2464.0
+2045,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2523.0
+2046,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2574.0
+2047,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2615.0
+2048,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2647.0
+2049,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2666.0
+2050,NYISO_E,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2677.0
+2025,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1935.0
+2026,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1934.0
+2027,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1943.0
+2028,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2013.0
+2029,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2049.0
+2030,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2095.0
+2031,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2137.0
+2032,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2192.0
+2033,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2253.0
+2034,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2354.0
+2035,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2473.0
+2036,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2605.0
+2037,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2741.0
+2038,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2884.0
+2039,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3037.0
+2040,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3191.0
+2041,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3347.0
+2042,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3489.0
+2043,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3617.0
+2044,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3727.0
+2045,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3827.0
+2046,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3918.0
+2047,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3997.0
+2048,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4061.0
+2049,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4107.0
+2050,NYISO_F,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4138.0
+2025,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1517.0
+2026,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1535.0
+2027,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1559.0
+2028,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1602.0
+2029,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1651.0
+2030,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1712.0
+2031,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1772.0
+2032,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1845.0
+2033,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1923.0
+2034,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2034.0
+2035,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2163.0
+2036,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2300.0
+2037,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2442.0
+2038,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2592.0
+2039,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2750.0
+2040,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,2905.0
+2041,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3054.0
+2042,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3193.0
+2043,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3321.0
+2044,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3438.0
+2045,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3545.0
+2046,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3642.0
+2047,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3729.0
+2048,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3802.0
+2049,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3858.0
+2050,NYISO_G,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3897.0
+2025,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,519.0
+2026,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,519.0
+2027,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,523.0
+2028,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,533.0
+2029,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,543.0
+2030,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,548.0
+2031,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,553.0
+2032,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,554.0
+2033,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,564.0
+2034,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,588.0
+2035,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,617.0
+2036,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,642.0
+2037,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,671.0
+2038,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,703.0
+2039,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,736.0
+2040,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,769.0
+2041,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,797.0
+2042,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,827.0
+2043,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,855.0
+2044,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,881.0
+2045,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,903.0
+2046,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,921.0
+2047,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,936.0
+2048,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,950.0
+2049,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,960.0
+2050,NYISO_H,NYISO 2024 Gold Book Baseline Summer Non-Coincident,967.0
+2025,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,886.0
+2026,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,895.0
+2027,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,906.0
+2028,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,924.0
+2029,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,943.0
+2030,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,966.0
+2031,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,984.0
+2032,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1009.0
+2033,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1038.0
+2034,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1084.0
+2035,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1137.0
+2036,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1195.0
+2037,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1255.0
+2038,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1317.0
+2039,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1382.0
+2040,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1447.0
+2041,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1510.0
+2042,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1571.0
+2043,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1626.0
+2044,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1674.0
+2045,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1717.0
+2046,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1754.0
+2047,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1786.0
+2048,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1814.0
+2049,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1834.0
+2050,NYISO_I,NYISO 2024 Gold Book Baseline Summer Non-Coincident,1847.0
+2025,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,7420.0
+2026,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,7480.0
+2027,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,7560.0
+2028,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,7630.0
+2029,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,7730.0
+2030,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,7840.0
+2031,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,7980.0
+2032,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,8300.0
+2033,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,8620.0
+2034,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,8810.0
+2035,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,9330.0
+2036,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,9760.0
+2037,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,10150.0
+2038,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,10620.0
+2039,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,11050.0
+2040,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,11610.0
+2041,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,12090.0
+2042,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,12620.0
+2043,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,12980.0
+2044,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,13310.0
+2045,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,13570.0
+2046,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,13850.0
+2047,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,14100.0
+2048,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,14280.0
+2049,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,14410.0
+2050,NYISO_J,NYISO 2024 Gold Book Baseline Summer Non-Coincident,14490.0
+2025,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3284.0
+2026,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3312.0
+2027,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3347.0
+2028,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3410.0
+2029,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3479.0
+2030,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3567.0
+2031,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3654.0
+2032,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3765.0
+2033,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,3896.0
+2034,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4074.0
+2035,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4283.0
+2036,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4511.0
+2037,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4748.0
+2038,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,4993.0
+2039,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,5251.0
+2040,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,5506.0
+2041,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,5761.0
+2042,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,5995.0
+2043,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,6206.0
+2044,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,6387.0
+2045,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,6549.0
+2046,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,6695.0
+2047,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,6820.0
+2048,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,6924.0
+2049,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,6997.0
+2050,NYISO_K,NYISO 2024 Gold Book Baseline Summer Non-Coincident,7046.0
+2025,ONTARIO,Maine per-capita proxy for Canadian demand,2233.0
+2026,ONTARIO,Maine per-capita proxy for Canadian demand,2241.0
+2027,ONTARIO,Maine per-capita proxy for Canadian demand,2307.0
+2028,ONTARIO,Maine per-capita proxy for Canadian demand,2412.0
+2029,ONTARIO,Maine per-capita proxy for Canadian demand,2559.0
+2030,ONTARIO,Maine per-capita proxy for Canadian demand,2725.0
+2031,ONTARIO,Maine per-capita proxy for Canadian demand,2916.0
+2032,ONTARIO,Maine per-capita proxy for Canadian demand,3131.0
+2033,ONTARIO,Maine per-capita proxy for Canadian demand,3368.0
+2034,ONTARIO,Maine per-capita proxy for Canadian demand,3622.0
+2035,ONTARIO,Maine per-capita proxy for Canadian demand,3885.0
+2036,ONTARIO,Maine per-capita proxy for Canadian demand,4150.0
+2037,ONTARIO,Maine per-capita proxy for Canadian demand,4413.0
+2038,ONTARIO,Maine per-capita proxy for Canadian demand,4674.0
+2039,ONTARIO,Maine per-capita proxy for Canadian demand,4930.0
+2040,ONTARIO,Maine per-capita proxy for Canadian demand,5162.0
+2041,ONTARIO,Maine per-capita proxy for Canadian demand,5361.0
+2042,ONTARIO,Maine per-capita proxy for Canadian demand,5530.0
+2043,ONTARIO,Maine per-capita proxy for Canadian demand,5672.0
+2044,ONTARIO,Maine per-capita proxy for Canadian demand,5791.0
+2045,ONTARIO,Maine per-capita proxy for Canadian demand,5890.0
+2046,ONTARIO,Maine per-capita proxy for Canadian demand,6047.484357767575
+2047,ONTARIO,Maine per-capita proxy for Canadian demand,6209.179466458998
+2048,ONTARIO,Maine per-capita proxy for Canadian demand,6375.1979113722255
+2049,ONTARIO,Maine per-capita proxy for Canadian demand,6545.655288063845
+2050,ONTARIO,Maine per-capita proxy for Canadian demand,6720.670282836114
+2025,PJM_AECO,PJM 2025 Load Forecast Table B5 (max monthly peaks),2584.0
+2026,PJM_AECO,PJM 2025 Load Forecast Table B5 (max monthly peaks),2579.0
+2027,PJM_AECO,PJM 2025 Load Forecast Table B5 (max monthly peaks),2575.0
+2028,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2570.0
+2029,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2570.0
+2030,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2569.0
+2031,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2572.0
+2032,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2577.0
+2033,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2588.0
+2034,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2601.0
+2035,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2619.0
+2036,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2636.0
+2037,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2660.0
+2038,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2682.0
+2039,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2703.0
+2040,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2720.0
+2041,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2737.0
+2042,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2753.0
+2043,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2768.0
+2044,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2785.0
+2045,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load,2803.0
+2046,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),2819.9014867341307
+2047,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),2836.904885795705
+2048,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),2854.0108116941237
+2049,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),2871.219882644146
+2050,PJM_AECO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),2888.5327205882345
+2025,PJM_AEP,PJM 2025 Load Forecast Table B5 (max monthly peaks),23592.0
+2026,PJM_AEP,PJM 2025 Load Forecast Table B5 (max monthly peaks),25788.0
+2027,PJM_AEP,PJM 2025 Load Forecast Table B5 (max monthly peaks),26947.0
+2028,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,27979.0
+2029,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,29096.0
+2030,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,32136.0
+2031,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,36068.0
+2032,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,39897.0
+2033,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,40037.0
+2034,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,40106.0
+2035,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,40190.0
+2036,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,40310.0
+2037,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,40451.0
+2038,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,40565.0
+2039,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,40686.0
+2040,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,40812.0
+2041,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,40935.0
+2042,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,41062.0
+2043,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,41196.0
+2044,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,41301.0
+2045,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load,41446.0
+2046,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),41573.97701384336
+2047,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),41702.34919528003
+2048,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),41831.11776450903
+2049,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),41960.28394549711
+2050,PJM_AEP,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),42089.84896599039
+2025,PJM_APS,PJM 2025 Load Forecast Table B5 (max monthly peaks),9074.0
+2026,PJM_APS,PJM 2025 Load Forecast Table B5 (max monthly peaks),9206.0
+2027,PJM_APS,PJM 2025 Load Forecast Table B5 (max monthly peaks),9478.0
+2028,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,9394.0
+2029,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,9756.0
+2030,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,9980.0
+2031,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,10307.0
+2032,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,10614.0
+2033,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,10855.0
+2034,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,11059.0
+2035,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,11151.0
+2036,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,11242.0
+2037,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,11262.0
+2038,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,11304.0
+2039,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,11347.0
+2040,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,11399.0
+2041,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,11452.0
+2042,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,11515.0
+2043,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,11559.0
+2044,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,11598.0
+2045,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load,11642.0
+2046,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),11691.218122703429
+2047,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),11740.644321648262
+2048,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),11790.279476504831
+2049,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),11840.124470662391
+2050,PJM_APS,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),11890.180191244846
+2025,PJM_ATSI,PJM 2025 Load Forecast Table B5 (max monthly peaks),12847.0
+2026,PJM_ATSI,PJM 2025 Load Forecast Table B5 (max monthly peaks),12961.0
+2027,PJM_ATSI,PJM 2025 Load Forecast Table B5 (max monthly peaks),13154.0
+2028,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,13381.0
+2029,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,13789.0
+2030,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,14460.0
+2031,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,15086.0
+2032,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,15574.0
+2033,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,15860.0
+2034,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,16001.0
+2035,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,16112.0
+2036,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,16227.0
+2037,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,16358.0
+2038,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,16455.0
+2039,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,16570.0
+2040,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,16669.0
+2041,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,16797.0
+2042,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,16921.0
+2043,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,17042.0
+2044,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,17126.0
+2045,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load,17231.0
+2046,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),17345.653620121157
+2047,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),17461.070135756614
+2048,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),17577.25462314875
+2049,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),17694.21219231684
+2050,PJM_ATSI,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),17811.94798728179
+2025,PJM_BGE,PJM 2025 Load Forecast Table B5 (max monthly peaks),6544.0
+2026,PJM_BGE,PJM 2025 Load Forecast Table B5 (max monthly peaks),6547.0
+2027,PJM_BGE,PJM 2025 Load Forecast Table B5 (max monthly peaks),6565.0
+2028,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,6584.0
+2029,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,6639.0
+2030,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,6671.0
+2031,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,6717.0
+2032,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,6776.0
+2033,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,6852.0
+2034,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,6916.0
+2035,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,6993.0
+2036,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,7071.0
+2037,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,7122.0
+2038,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,7172.0
+2039,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,7224.0
+2040,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,7268.0
+2041,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,7314.0
+2042,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,7356.0
+2043,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,7400.0
+2044,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,7437.0
+2045,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load,7476.0
+2046,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),7518.308937982239
+2047,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),7560.857315000484
+2048,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),7603.6464861124305
+2049,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),7646.677814044451
+2050,PJM_BGE,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),7689.952669235005
+2025,PJM_COMED,PJM 2025 Load Forecast Table B5 (max monthly peaks),20565.0
+2026,PJM_COMED,PJM 2025 Load Forecast Table B5 (max monthly peaks),20793.0
+2027,PJM_COMED,PJM 2025 Load Forecast Table B5 (max monthly peaks),20984.0
+2028,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,21237.0
+2029,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,21620.0
+2030,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,22077.0
+2031,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,22544.0
+2032,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,23021.0
+2033,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,23489.0
+2034,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,23852.0
+2035,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,24069.0
+2036,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,24238.0
+2037,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,24396.0
+2038,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,24417.0
+2039,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,24453.0
+2040,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,24460.0
+2041,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,24495.0
+2042,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,24547.0
+2043,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,24597.0
+2044,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,24601.0
+2045,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load,24595.0
+2046,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),24622.089280014865
+2047,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),24649.208396544946
+2048,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),24676.3573824526
+2049,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),24703.536270636378
+2050,PJM_COMED,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),24730.745094031077
+2025,PJM_DAYTON,PJM 2025 Load Forecast Table B5 (max monthly peaks),3348.0
+2026,PJM_DAYTON,PJM 2025 Load Forecast Table B5 (max monthly peaks),3341.0
+2027,PJM_DAYTON,PJM 2025 Load Forecast Table B5 (max monthly peaks),3638.0
+2028,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3687.0
+2029,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3691.0
+2030,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3691.0
+2031,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3697.0
+2032,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3712.0
+2033,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3722.0
+2034,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3739.0
+2035,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3757.0
+2036,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3778.0
+2037,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3801.0
+2038,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3824.0
+2039,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3849.0
+2040,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3870.0
+2041,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3884.0
+2042,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3905.0
+2043,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3929.0
+2044,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3950.0
+2045,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load,3973.0
+2046,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),3993.926654046661
+2047,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),4014.96353332604
+2048,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),4036.111218418382
+2049,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),4057.3702929619735
+2050,PJM_DAYTON,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),4078.7413436692514
+2025,PJM_DEOK,PJM 2025 Load Forecast Table B5 (max monthly peaks),5370.0
+2026,PJM_DEOK,PJM 2025 Load Forecast Table B5 (max monthly peaks),5381.0
+2027,PJM_DEOK,PJM 2025 Load Forecast Table B5 (max monthly peaks),5387.0
+2028,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,5431.0
+2029,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,5597.0
+2030,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,5652.0
+2031,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,5665.0
+2032,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,5678.0
+2033,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,5700.0
+2034,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,5728.0
+2035,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,5760.0
+2036,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,5801.0
+2037,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,5846.0
+2038,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,5881.0
+2039,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,5919.0
+2040,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,5956.0
+2041,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,5999.0
+2042,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,6044.0
+2043,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,6089.0
+2044,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,6121.0
+2045,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load,6166.0
+2046,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),6208.880291693858
+2047,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),6252.058786341941
+2048,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),6295.537557740822
+2049,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),6339.318694108899
+2050,PJM_DEOK,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),6383.4042981867
+2025,PJM_DOM,PJM 2025 Load Forecast Table B5 (max monthly peaks),23351.0
+2026,PJM_DOM,PJM 2025 Load Forecast Table B5 (max monthly peaks),24868.0
+2027,PJM_DOM,PJM 2025 Load Forecast Table B5 (max monthly peaks),26732.0
+2028,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,29002.0
+2029,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,31237.0
+2030,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,33431.0
+2031,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,35916.0
+2032,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,38073.0
+2033,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,39883.0
+2034,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,41452.0
+2035,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,42846.0
+2036,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,44117.0
+2037,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,45243.0
+2038,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,46269.0
+2039,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,47135.0
+2040,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,47956.0
+2041,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,48733.0
+2042,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,49436.0
+2043,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,50160.0
+2044,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,50879.0
+2045,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load,51604.0
+2046,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),52366.2469638072
+2047,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),53139.7531407342
+2048,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),53924.68484155175
+2049,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),54721.210833620826
+2050,PJM_DOM,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),55529.50237717911
+2025,PJM_DPL,PJM 2025 Load Forecast Table B5 (max monthly peaks),4005.0
+2026,PJM_DPL,PJM 2025 Load Forecast Table B5 (max monthly peaks),3997.0
+2027,PJM_DPL,PJM 2025 Load Forecast Table B5 (max monthly peaks),3992.0
+2028,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,3992.0
+2029,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,3996.0
+2030,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,3997.0
+2031,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,4005.0
+2032,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,4014.0
+2033,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,4031.0
+2034,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,4049.0
+2035,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,4074.0
+2036,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,4100.0
+2037,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,4126.0
+2038,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,4148.0
+2039,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,4176.0
+2040,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,4200.0
+2041,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,4223.0
+2042,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,4244.0
+2043,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,4266.0
+2044,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,4287.0
+2045,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load,4311.0
+2046,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),4333.5495766844
+2047,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),4356.217103591172
+2048,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),4379.003197683336
+2049,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),4401.908479151069
+2050,PJM_DPL,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),4424.9335714285735
+2025,PJM_DUQ,PJM 2025 Load Forecast Table B5 (max monthly peaks),2703.0
+2026,PJM_DUQ,PJM 2025 Load Forecast Table B5 (max monthly peaks),2697.0
+2027,PJM_DUQ,PJM 2025 Load Forecast Table B5 (max monthly peaks),2702.0
+2028,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,2711.0
+2029,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,2721.0
+2030,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,2730.0
+2031,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,2742.0
+2032,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,2754.0
+2033,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,2770.0
+2034,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,2788.0
+2035,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,2808.0
+2036,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,2833.0
+2037,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,2860.0
+2038,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,2883.0
+2039,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,2906.0
+2040,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,2930.0
+2041,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,2955.0
+2042,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,2981.0
+2043,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,3006.0
+2044,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,3030.0
+2045,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load,3060.0
+2046,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),3086.6841204621205
+2047,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),3113.6009344813774
+2048,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),3140.752471215584
+2049,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),3168.1407775174207
+2050,PJM_DUQ,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),3195.7679180887385
+2025,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2117.0
+2026,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2121.0
+2027,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2125.0
+2028,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2128.0
+2029,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2135.0
+2030,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2142.0
+2031,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2151.0
+2032,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2158.0
+2033,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2168.0
+2034,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2177.0
+2035,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2192.0
+2036,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2212.0
+2037,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2231.0
+2038,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2245.0
+2039,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2263.0
+2040,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2275.0
+2041,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2292.0
+2042,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2309.0
+2043,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2325.0
+2044,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2339.0
+2045,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load,2352.0
+2046,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),2367.70995799003
+2047,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),2383.5248491348425
+2048,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),2399.445374325362
+2049,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),2415.472239134045
+2050,PJM_EKPC,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),2431.606153846154
+2025,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,11881.0
+2026,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,11910.0
+2027,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,11932.0
+2028,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,11951.0
+2029,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,11976.0
+2030,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,12064.0
+2031,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,12149.0
+2032,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,12251.0
+2033,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,12382.0
+2034,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,12549.0
+2035,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,12710.0
+2036,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,12910.0
+2037,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,13119.0
+2038,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,13312.0
+2039,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,13497.0
+2040,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,13674.0
+2041,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,13853.0
+2042,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,14044.0
+2043,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,14228.0
+2044,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,14357.0
+2045,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load,14526.0
+2046,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),14702.667394362365
+2047,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),14881.483444117184
+2048,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),15062.47428153415
+2049,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),15245.666356707552
+2050,PJM_FE-EAST,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),15431.086441421685
+2025,PJM_JCPL,PJM 2025 Load Forecast Table B5 (max monthly peaks),6096.0
+2026,PJM_JCPL,PJM 2025 Load Forecast Table B5 (max monthly peaks),6103.0
+2027,PJM_JCPL,PJM 2025 Load Forecast Table B5 (max monthly peaks),6104.0
+2028,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,6094.0
+2029,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,6099.0
+2030,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,6111.0
+2031,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,6143.0
+2032,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,6182.0
+2033,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,6253.0
+2034,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,6322.0
+2035,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,6397.0
+2036,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,6474.0
+2037,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,6563.0
+2038,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,6641.0
+2039,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,6718.0
+2040,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,6788.0
+2041,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,6856.0
+2042,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,6928.0
+2043,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,7001.0
+2044,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,7071.0
+2045,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load,7148.0
+2046,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),7222.25945087176
+2047,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),7297.2903715314
+2048,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),7373.100776657548
+2049,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),7449.698764192067
+2050,PJM_JCPL,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),7527.092516205066
+2025,PJM_METED,PJM 2025 Load Forecast Table B5 (max monthly peaks),3115.0
+2026,PJM_METED,PJM 2025 Load Forecast Table B5 (max monthly peaks),3134.0
+2027,PJM_METED,PJM 2025 Load Forecast Table B5 (max monthly peaks),3159.0
+2028,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,3188.0
+2029,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,3219.0
+2030,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,3259.0
+2031,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,3312.0
+2032,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,3361.0
+2033,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,3425.0
+2034,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,3495.0
+2035,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,3572.0
+2036,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,3668.0
+2037,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,3768.0
+2038,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,3866.0
+2039,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,3965.0
+2040,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,4072.0
+2041,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,4180.0
+2042,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,4291.0
+2043,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,4394.0
+2044,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,4482.0
+2045,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load,4580.0
+2046,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),4688.965309941414
+2047,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),4800.523073762877
+2048,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),4914.734969966694
+2049,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),5031.6641444824845
+2050,PJM_METED,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),5151.375245579566
+2025,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2026,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2027,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2028,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2029,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2030,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2031,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2032,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2033,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2034,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2035,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2036,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2037,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2038,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2039,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2040,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2041,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2042,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2043,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2044,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2045,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load,85.0
+2046,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),85.0
+2047,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),85.0
+2048,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),85.0
+2049,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),85.0
+2050,PJM_OVEC,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),85.0
+2025,PJM_PECO,PJM 2025 Load Forecast Table B5 (max monthly peaks),8606.0
+2026,PJM_PECO,PJM 2025 Load Forecast Table B5 (max monthly peaks),8641.0
+2027,PJM_PECO,PJM 2025 Load Forecast Table B5 (max monthly peaks),8719.0
+2028,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,8797.0
+2029,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,8872.0
+2030,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,8950.0
+2031,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,9036.0
+2032,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,9129.0
+2033,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,9229.0
+2034,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,9306.0
+2035,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,9349.0
+2036,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,9425.0
+2037,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,9504.0
+2038,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,9567.0
+2039,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,9635.0
+2040,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,9691.0
+2041,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,9775.0
+2042,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,9864.0
+2043,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,9947.0
+2044,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,10022.0
+2045,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load,10105.0
+2046,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),10189.898608390184
+2047,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),10275.51050462862
+2048,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),10361.841681505584
+2049,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),10448.898182160628
+2050,PJM_PECO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),10536.686100505622
+2025,PJM_PENELEC,PJM 2025 Load Forecast Table B5 (max monthly peaks),2944.0
+2026,PJM_PENELEC,PJM 2025 Load Forecast Table B5 (max monthly peaks),2935.0
+2027,PJM_PENELEC,PJM 2025 Load Forecast Table B5 (max monthly peaks),2939.0
+2028,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,2930.0
+2029,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,2937.0
+2030,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,2950.0
+2031,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,2962.0
+2032,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,2970.0
+2033,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,2981.0
+2034,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,2992.0
+2035,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,3014.0
+2036,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,3050.0
+2037,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,3078.0
+2038,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,3099.0
+2039,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,3118.0
+2040,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,3137.0
+2041,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,3160.0
+2042,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,3187.0
+2043,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,3208.0
+2044,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,3215.0
+2045,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load,3234.0
+2046,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),3253.7569962778807
+2047,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),3273.634691041205
+2048,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),3293.6338216553177
+2049,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),3313.7551299902425
+2050,PJM_PENELEC,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),3333.999362448197
+2025,PJM_PEPCO,PJM 2025 Load Forecast Table B5 (max monthly peaks),6069.0
+2026,PJM_PEPCO,PJM 2025 Load Forecast Table B5 (max monthly peaks),6095.0
+2027,PJM_PEPCO,PJM 2025 Load Forecast Table B5 (max monthly peaks),6113.0
+2028,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6130.0
+2029,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6150.0
+2030,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6167.0
+2031,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6191.0
+2032,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6218.0
+2033,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6244.0
+2034,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6273.0
+2035,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6311.0
+2036,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6368.0
+2037,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6418.0
+2038,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6466.0
+2039,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6512.0
+2040,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6553.0
+2041,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6610.0
+2042,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6667.0
+2043,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6716.0
+2044,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6756.0
+2045,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load,6805.0
+2046,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),6856.551176111913
+2047,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),6908.492877390399
+2048,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),6960.828062253036
+2049,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),7013.559711528856
+2050,PJM_PEPCO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),7066.690828628112
+2025,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,7557.0
+2026,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,7954.0
+2027,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,9002.0
+2028,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,10235.0
+2029,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,11477.0
+2030,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,12198.0
+2031,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,12697.0
+2032,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,12953.0
+2033,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,13191.0
+2034,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,13225.0
+2035,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,13275.0
+2036,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,13349.0
+2037,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,13419.0
+2038,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,13479.0
+2039,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,13533.0
+2040,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,13589.0
+2041,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,13652.0
+2042,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,13731.0
+2043,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,13801.0
+2044,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,13858.0
+2045,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load,13920.0
+2046,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),13987.161280868357
+2047,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),14054.646601797618
+2048,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),14122.457526217791
+2049,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),14190.59562510211
+2050,PJM_PLGRP,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),14259.062477003456
+2025,PJM_PPL,PJM 2025 Load Forecast Table B5 (max monthly peaks),7510.0
+2026,PJM_PPL,PJM 2025 Load Forecast Table B5 (max monthly peaks),7803.0
+2027,PJM_PPL,PJM 2025 Load Forecast Table B5 (max monthly peaks),8989.0
+2028,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,10045.0
+2029,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,11280.0
+2030,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,12001.0
+2031,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,12502.0
+2032,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,12752.0
+2033,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,12994.0
+2034,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,13028.0
+2035,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,13072.0
+2036,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,13149.0
+2037,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,13218.0
+2038,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,13272.0
+2039,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,13328.0
+2040,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,13382.0
+2041,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,13445.0
+2042,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,13521.0
+2043,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,13593.0
+2044,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,13646.0
+2045,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load,13705.0
+2046,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),13770.529589140397
+2047,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),13836.372503859258
+2048,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),13902.53024230299
+2049,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),13969.004309781283
+2050,PJM_PPL,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),14035.79621880138
+2025,PJM_PSEG,PJM 2025 Load Forecast Table B5 (max monthly peaks),10341.0
+2026,PJM_PSEG,PJM 2025 Load Forecast Table B5 (max monthly peaks),10528.0
+2027,PJM_PSEG,PJM 2025 Load Forecast Table B5 (max monthly peaks),10671.0
+2028,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,10949.0
+2029,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,11090.0
+2030,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,11298.0
+2031,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,11407.0
+2032,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,11486.0
+2033,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,11597.0
+2034,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,11689.0
+2035,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,11785.0
+2036,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,11901.0
+2037,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,12046.0
+2038,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,12150.0
+2039,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,12255.0
+2040,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,12344.0
+2041,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,12467.0
+2042,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,12583.0
+2043,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,12714.0
+2044,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,12816.0
+2045,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load,12925.0
+2046,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),13044.441201640868
+2047,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),13164.986171223663
+2048,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),13286.64510877696
+2049,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),13409.428308588806
+2050,PJM_PSEG,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),13533.346160077774
+2025,PJM_RECO,PJM 2025 Load Forecast Table B5 (max monthly peaks),415.0
+2026,PJM_RECO,PJM 2025 Load Forecast Table B5 (max monthly peaks),416.0
+2027,PJM_RECO,PJM 2025 Load Forecast Table B5 (max monthly peaks),414.0
+2028,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,412.0
+2029,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,410.0
+2030,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,410.0
+2031,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,410.0
+2032,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,411.0
+2033,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,414.0
+2034,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,417.0
+2035,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,420.0
+2036,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,424.0
+2037,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,428.0
+2038,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,432.0
+2039,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,436.0
+2040,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,439.0
+2041,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,442.0
+2042,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,447.0
+2043,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,451.0
+2044,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,455.0
+2045,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load,460.0
+2046,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),464.31904121218696
+2047,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),468.6786348526186
+2048,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),473.0791616769664
+2049,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),477.5210060159004
+2050,PJM_RECO,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),482.00455580865616
+2025,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,201.0
+2026,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,200.0
+2027,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,200.0
+2028,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,200.0
+2029,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,200.0
+2030,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,200.0
+2031,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,200.0
+2032,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,201.0
+2033,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,201.0
+2034,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,202.0
+2035,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,203.0
+2036,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,204.0
+2037,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,206.0
+2038,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,207.0
+2039,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,208.0
+2040,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,209.0
+2041,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,210.0
+2042,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,211.0
+2043,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,213.0
+2044,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,214.0
+2045,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load,215.0
+2046,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),216.2205136302704
+2047,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),217.44795588157183
+2048,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),218.68236608635277
+2049,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),219.92378380034424
+2050,PJM_UGI,PJM 2025 Load Report Table B1 Summer Peak Load (extrapolated beyond 2045),221.17224880382776
+2025,QUEBEC,Maine per-capita proxy for Canadian demand,2233.0
+2026,QUEBEC,Maine per-capita proxy for Canadian demand,2241.0
+2027,QUEBEC,Maine per-capita proxy for Canadian demand,2307.0
+2028,QUEBEC,Maine per-capita proxy for Canadian demand,2412.0
+2029,QUEBEC,Maine per-capita proxy for Canadian demand,2559.0
+2030,QUEBEC,Maine per-capita proxy for Canadian demand,2725.0
+2031,QUEBEC,Maine per-capita proxy for Canadian demand,2916.0
+2032,QUEBEC,Maine per-capita proxy for Canadian demand,3131.0
+2033,QUEBEC,Maine per-capita proxy for Canadian demand,3368.0
+2034,QUEBEC,Maine per-capita proxy for Canadian demand,3622.0
+2035,QUEBEC,Maine per-capita proxy for Canadian demand,3885.0
+2036,QUEBEC,Maine per-capita proxy for Canadian demand,4150.0
+2037,QUEBEC,Maine per-capita proxy for Canadian demand,4413.0
+2038,QUEBEC,Maine per-capita proxy for Canadian demand,4674.0
+2039,QUEBEC,Maine per-capita proxy for Canadian demand,4930.0
+2040,QUEBEC,Maine per-capita proxy for Canadian demand,5162.0
+2041,QUEBEC,Maine per-capita proxy for Canadian demand,5361.0
+2042,QUEBEC,Maine per-capita proxy for Canadian demand,5530.0
+2043,QUEBEC,Maine per-capita proxy for Canadian demand,5672.0
+2044,QUEBEC,Maine per-capita proxy for Canadian demand,5791.0
+2045,QUEBEC,Maine per-capita proxy for Canadian demand,5890.0
+2046,QUEBEC,Maine per-capita proxy for Canadian demand,6047.484357767575
+2047,QUEBEC,Maine per-capita proxy for Canadian demand,6209.179466458998
+2048,QUEBEC,Maine per-capita proxy for Canadian demand,6375.1979113722255
+2049,QUEBEC,Maine per-capita proxy for Canadian demand,6545.655288063845
+2050,QUEBEC,Maine per-capita proxy for Canadian demand,6720.670282836114
+2025,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1167.9755655090562
+2026,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1188.7318521687607
+2027,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1215.3664482283916
+2028,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1228.574369394211
+2029,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1245.3854872847162
+2030,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1265.5548345028142
+2031,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1287.5688044610015
+2032,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1310.7759044214908
+2033,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1333.0107393721876
+2034,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1355.9666403242657
+2035,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1379.2901458798312
+2036,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1403.0337165638616
+2037,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1427.205203917065
+2038,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1451.812610371887
+2039,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1476.8640922100078
+2040,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1502.3679625786024
+2041,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1528.332694566514
+2042,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1554.7669243415635
+2043,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1581.6794543502074
+2044,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1609.0792565808013
+2045,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1636.9754758917402
+2046,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1665.3774334057782
+2047,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1694.294629971854
+2048,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1723.7367496957768
+2049,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1753.7136635411557
+2050,SANTEE_COOPER_SYS,Estimated from adjacent per capita demand,1784.2354330019766
+2025,SCEG_SYS,Estimated from adjacent per capita demand,5535.4963165338295
+2026,SCEG_SYS,Estimated from adjacent per capita demand,5633.868535733157
+2027,SCEG_SYS,Estimated from adjacent per capita demand,5760.100378876376
+2028,SCEG_SYS,Estimated from adjacent per capita demand,5822.697920401655
+2029,SCEG_SYS,Estimated from adjacent per capita demand,5902.372430646353
+2030,SCEG_SYS,Estimated from adjacent per capita demand,5997.962912613338
+2031,SCEG_SYS,Estimated from adjacent per capita demand,6102.295788415171
+2032,SCEG_SYS,Estimated from adjacent per capita demand,6212.283377318824
+2033,SCEG_SYS,Estimated from adjacent per capita demand,6317.66301932758
+2034,SCEG_SYS,Estimated from adjacent per capita demand,6426.460077173187
+2035,SCEG_SYS,Estimated from adjacent per capita demand,6536.999358048654
+2036,SCEG_SYS,Estimated from adjacent per capita demand,6649.52949304812
+2037,SCEG_SYS,Estimated from adjacent per capita demand,6764.08769371603
+2038,SCEG_SYS,Estimated from adjacent per capita demand,6880.711886732216
+2039,SCEG_SYS,Estimated from adjacent per capita demand,6999.440727928643
+2040,SCEG_SYS,Estimated from adjacent per capita demand,7120.313616584649
+2041,SCEG_SYS,Estimated from adjacent per capita demand,7243.370710006146
+2042,SCEG_SYS,Estimated from adjacent per capita demand,7368.652938394561
+2043,SCEG_SYS,Estimated from adjacent per capita demand,7496.202020011286
+2044,SCEG_SYS,Estimated from adjacent per capita demand,7626.060476643555
+2045,SCEG_SYS,Estimated from adjacent per capita demand,7758.271649377823
+2046,SCEG_SYS,Estimated from adjacent per capita demand,7892.879714686779
+2047,SCEG_SYS,Estimated from adjacent per capita demand,8029.929700836302
+2048,SCEG_SYS,Estimated from adjacent per capita demand,8169.467504618772
+2049,SCEG_SYS,Estimated from adjacent per capita demand,8311.539908419296
+2050,SCEG_SYS,Estimated from adjacent per capita demand,8456.19459762149
+2025,SOCO_SYS,Estimated from adjacent per capita demand,63707.75811867579
+2026,SOCO_SYS,Estimated from adjacent per capita demand,64839.91920920514
+2027,SOCO_SYS,Estimated from adjacent per capita demand,66292.71535791227
+2028,SOCO_SYS,Estimated from adjacent per capita demand,67013.14742150242
+2029,SOCO_SYS,Estimated from adjacent per capita demand,67930.11748825725
+2030,SOCO_SYS,Estimated from adjacent per capita demand,69030.2637001535
+2031,SOCO_SYS,Estimated from adjacent per capita demand,70231.02569787281
+2032,SOCO_SYS,Estimated from adjacent per capita demand,71496.8675138995
+2033,SOCO_SYS,Estimated from adjacent per capita demand,72709.6766930284
+2034,SOCO_SYS,Estimated from adjacent per capita demand,73961.81674495994
+2035,SOCO_SYS,Estimated from adjacent per capita demand,75234.0079570817
+2036,SOCO_SYS,Estimated from adjacent per capita demand,76529.11181257427
+2037,SOCO_SYS,Estimated from adjacent per capita demand,77847.55657729447
+2038,SOCO_SYS,Estimated from adjacent per capita demand,79189.77874755747
+2039,SOCO_SYS,Estimated from adjacent per capita demand,80556.22321145497
+2040,SOCO_SYS,Estimated from adjacent per capita demand,81947.34341337832
+2041,SOCO_SYS,Estimated from adjacent per capita demand,83363.60152180986
+2042,SOCO_SYS,Estimated from adjacent per capita demand,84805.46860044892
+2043,SOCO_SYS,Estimated from adjacent per capita demand,86273.42478273858
+2044,SOCO_SYS,Estimated from adjacent per capita demand,87767.95944986188
+2045,SOCO_SYS,Estimated from adjacent per capita demand,89289.57141227674
+2046,SOCO_SYS,Estimated from adjacent per capita demand,90838.76909486063
+2047,SOCO_SYS,Estimated from adjacent per capita demand,92416.07072573749
+2048,SOCO_SYS,Estimated from adjacent per capita demand,94022.00452886055
+2049,SOCO_SYS,Estimated from adjacent per capita demand,95657.10892042668
+2050,SOCO_SYS,Estimated from adjacent per capita demand,97321.93270919872
+2025,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,6500.383586
+2026,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,6647.167528
+2027,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,6863.918108
+2028,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,6949.270668
+2029,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,7046.190746
+2030,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),7189.658267582844
+2031,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),7336.046932020188
+2032,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),7485.416216714878
+2033,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),7637.826810089426
+2034,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),7793.340636243593
+2035,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),7952.020880114006
+2036,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),8113.93201314608
+2037,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),8279.139819488619
+2038,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),8447.711422721779
+2039,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),8619.715313129229
+2040,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),8795.221375525618
+2041,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),8974.300917650622
+2042,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),9157.02669914112
+2043,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),9343.472961093295
+2044,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),9533.71545622662
+2045,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),9727.831479662029
+2046,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),9925.89990032676
+2047,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),10128.001192998649
+2048,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),10334.217471002825
+2049,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),10544.63251957422
+2050,SPP_AR,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),10759.3318298993
+2025,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,7165.552038000001
+2026,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,7327.356024000001
+2027,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,7566.286164
+2028,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,7660.372644
+2029,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,7767.210318
+2030,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),7925.358522342715
+2031,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),8086.726782987866
+2032,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),8251.380663516362
+2033,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),8419.387062449476
+2034,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),8590.81424042958
+2035,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),8765.731847954283
+2036,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),8944.210953675301
+2037,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),9126.324073273488
+2038,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),9312.145198921791
+2039,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),9501.749829348142
+2040,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),9695.215000510396
+2041,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),9892.619316895907
+2042,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),10094.04298345834
+2043,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),10299.567838204795
+2044,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),10509.277385446398
+2045,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),10723.256829725924
+2046,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),10941.59311043624
+2047,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),11164.374937143575
+2048,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),11391.692825630043
+2049,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),11623.639134670002
+2050,SPP_LA,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),11860.30810355523
+2025,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,13468.445652
+2026,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,13772.574096
+2027,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,14221.669656
+2028,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,14398.515576
+2029,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,14599.328772
+2030,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),14896.585771021915
+2031,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),15199.895221142608
+2032,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),15509.38035634622
+2033,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),15825.166919784597
+2034,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),16147.383214866471
+2035,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),16476.160157386857
+2036,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),16811.631328717856
+2037,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),17153.933030082506
+2038,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),17503.20433793365
+2039,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),17859.58716046041
+2040,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),18223.2262952452
+2041,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),18594.26948809465
+2042,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),18972.867493068454
+2043,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),19359.17413373036
+2044,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),19753.3463656464
+2045,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),20155.54434015561
+2046,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),20565.931469439165
+2047,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),20984.674492914368
+2048,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),21411.943544980582
+2049,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),21847.91222414443
+2050,SPP_MO,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),22292.757663552507
+2025,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,30746.618724
+2026,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,31440.902352
+2027,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,32466.126072
+2028,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,32869.841112
+2029,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region,33328.270164
+2030,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),34006.86722323898
+2031,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),34699.28120026403
+2032,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),35405.79342140055
+2033,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),36126.69094106053
+2034,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),36862.26665837214
+2035,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),37612.819436184
+2036,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),38378.654222492565
+2037,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),39160.08217434182
+2038,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),39957.420784245725
+2039,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),40770.99400918472
+2040,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),41601.132402228825
+2041,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),42448.173246840604
+2042,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),43312.460693912704
+2043,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),44194.34590159568
+2044,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),45094.18717797273
+2045,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),46012.350126639605
+2046,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),46949.20779524849
+2047,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),47905.140827076495
+2048,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),48880.53761568023
+2049,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),49875.79446269927
+2050,SPP_OK,SPP 2024 June Resource Adequacy Report (Forecasted Non-Coincident Peak) apportioned by region (extrapolated beyond 2029),50891.31573887262
+2025,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS,5239.340999999999
+2026,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS,5299.861
+2027,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS,5347.920999999999
+2028,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS,5394.824
+2029,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS,5466.736
+2030,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS,5524.675
+2031,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS,5598.545
+2032,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS,5681.581999999999
+2033,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS,5751.447
+2034,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS,5825.495
+2035,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS (extrapolated),5900.02402806511
+2036,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS (extrapolated),5975.506550386814
+2037,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS (extrapolated),6051.954765585183
+2038,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS (extrapolated),6129.381028344497
+2039,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS (extrapolated),6207.797851409875
+2040,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS (extrapolated),6287.2179076094335
+2041,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS (extrapolated),6367.654031902336
+2042,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS (extrapolated),6449.119223453021
+2043,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS (extrapolated),6531.626647731981
+2044,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS (extrapolated),6615.189638643421
+2045,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS (extrapolated),6699.821700680119
+2046,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS (extrapolated),6785.536511105879
+2047,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS (extrapolated),6872.347922165891
+2048,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS (extrapolated),6960.2699633253615
+2049,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS (extrapolated),7049.316843536814
+2050,TECO_SYS,FRCC RLRP 2025 Summer Net Firm Peak Demand apportioned to TECO_SYS (extrapolated),7139.502953536359
+2025,TVA_SYS,Estimated from adjacent per capita demand,28314.55916385591
+2026,TVA_SYS,Estimated from adjacent per capita demand,28817.74187075784
+2027,TVA_SYS,Estimated from adjacent per capita demand,29463.429047961006
+2028,TVA_SYS,Estimated from adjacent per capita demand,29783.6210762233
+2029,TVA_SYS,Estimated from adjacent per capita demand,30191.163328114333
+2030,TVA_SYS,Estimated from adjacent per capita demand,30680.117200068224
+2031,TVA_SYS,Estimated from adjacent per capita demand,31213.789199054583
+2032,TVA_SYS,Estimated from adjacent per capita demand,31776.385561733114
+2033,TVA_SYS,Estimated from adjacent per capita demand,32315.41186356818
+2034,TVA_SYS,Estimated from adjacent per capita demand,32871.91855331553
+2035,TVA_SYS,Estimated from adjacent per capita demand,33437.33686981409
+2036,TVA_SYS,Estimated from adjacent per capita demand,34012.93858336634
+2037,TVA_SYS,Estimated from adjacent per capita demand,34598.914034353096
+2038,TVA_SYS,Estimated from adjacent per capita demand,35195.457221136654
+2039,TVA_SYS,Estimated from adjacent per capita demand,35802.765871757765
+2040,TVA_SYS,Estimated from adjacent per capita demand,36421.04151705703
+2041,TVA_SYS,Estimated from adjacent per capita demand,37050.48956524883
+2042,TVA_SYS,Estimated from adjacent per capita demand,37691.31937797729
+2043,TVA_SYS,Estimated from adjacent per capita demand,38343.74434788381
+2044,TVA_SYS,Estimated from adjacent per capita demand,39007.981977716394
+2045,TVA_SYS,Estimated from adjacent per capita demand,39684.253961011884
+2046,TVA_SYS,Estimated from adjacent per capita demand,40372.7862643825
+2047,TVA_SYS,Estimated from adjacent per capita demand,41073.809211438886
+2048,TVA_SYS,Estimated from adjacent per capita demand,41787.557568382465
+2049,TVA_SYS,Estimated from adjacent per capita demand,42514.270631300744
+2050,TVA_SYS,Estimated from adjacent per capita demand,43254.192315199434

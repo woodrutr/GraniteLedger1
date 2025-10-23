@@ -1,0 +1,4 @@
+﻿hub,region,production_capacity_PEM,x,y
+hub1,7,100000,3,4
+hub2,8,500000,5,6
+hub3,9,500000,7,8

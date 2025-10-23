@@ -1,0 +1,16 @@
+tech,T_conv,T_re,T_hydro,T_stor,T_vre,T_wind,T_solar,T_h2,T_disp,T_gen
+1,T_conv,,,,,,,,T_disp,T_gen
+2,T_conv,,,,,,,,T_disp,T_gen
+3,T_conv,,,,,,,,T_disp,T_gen
+4,T_conv,,,,,,,,T_disp,T_gen
+5,,,,,,,,T_h2,T_disp,T_gen
+6,T_conv,,,,,,,,T_disp,T_gen
+7,,T_re,,,,,,,T_disp,T_gen
+8,,T_re,,,,,,,T_disp,T_gen
+9,,T_re,,,,,,,T_disp,T_gen
+10,,T_re,T_hydro,,,,,,T_disp,T_gen
+11,,,,T_stor,,,,,,
+12,,,,T_stor,,,,,,
+13,,,,,T_vre,T_wind,,,,T_gen
+14,,,,,T_vre,T_wind,,,,T_gen
+15,,,,,T_vre,,T_solar,,,T_gen
