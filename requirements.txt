@@ -1,0 +1,52 @@
+# GraniteLedger dependency manifest used by CI and Streamlit
+
+# Core runtime dependencies
+numpy==1.26.4
+pandas==2.2.2
+pyomo==6.7.1
+scipy==1.13.1
+streamlit==1.32.2
+toml==0.10.2
+tomli; python_version < "3.11"
+typer>=0.12
+
+# Visualization and dashboards
+dash==2.16.1
+dash-bootstrap-components==1.6.0
+plotly==5.22.0
+
+# Data access and utilities
+grequests==0.6.0
+requests==2.32.3
+sqlalchemy==2.0.30
+
+# Graph and scientific tooling
+matplotlib==3.8.4
+networkx==3.3
+sympy==1.12
+
+# Development and testing tools
+mypy==1.10.0
+pytest==8.2.2
+pytest-cov==4.1.0
+ruff==0.4.5
+dash==2.16.1
+dash-bootstrap-components==1.6.0
+grequests==0.6.0
+matplotlib==3.8.4
+mypy==1.10.0
+networkx==3.3
+numpy==1.26.4
+pandas==2.2.2
+plotly==5.22.0
+pyomo==6.7.1
+pytest==8.2.2
+pytest-cov==4.1.0
+requests==2.32.3
+ruff==0.4.5
+scipy==1.13.1
+sqlalchemy==2.0.30
+streamlit==1.32.2
+sympy==1.12
+toml==0.10.2
+typer

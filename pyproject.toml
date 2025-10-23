@@ -1,0 +1,63 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "main"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.2,<3.0",
+]
+
+[tool.setuptools.packages.find]
+include = ["main", "main.*", "src", "src.*"]
+
+[tool.ruff]
+line-length = 100
+extend-exclude = [
+    "app.py",
+    "dispatch",
+    "docs",
+    "engine",
+    "envs",
+    "github_formatter.py",
+    "input",
+    "main.py",
+    "output",
+    "policy",
+    "run_streamlit_app.bat",
+    "sample",
+    "src",
+    "tests/fixtures",
+    "unit_tests",
+]
+
+[tool.ruff.lint]
+select = ["E", "F"]
+ignore = ["E501"]
+
+[tool.ruff.format]
+quote-style = "single"
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+testpaths = ["tests"]
+addopts = "-W error"
+python_files = ["test_*.py"]
+log_file = "unit_tests/test_logs/testlog.log"
+log_file_level = "INFO"
+
+[tool.mypy]
+python_version = "3.11"
+warn_unused_configs = true
+ignore_missing_imports = true
+files = ["main/definitions.py", "tests/test_types_exist.py"]
+
+[tool.pyright]
+reportCallIssue = false
+# reportArgumentType = false
+reportOperatorIssue = false
+reportOptionalMemberAccess = false
+reportSelfClsParameterName = false
+reportOptionalSubscript = false

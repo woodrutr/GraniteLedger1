@@ -1,0 +1,161 @@
+# RUN CONFIGURATION TEMPLATE
+# This template provides default placeholders for model configurations.
+# Copy or edit this file to create a working run_config.toml.
+
+###################################################################################################
+# Universal Inputs
+
+# Default solve mode
+default_mode = "gs-combo"  # choices: ["unified-combo", "gs-combo", "standalone"]
+
+# Optional: override the deterministic output directory name used for results
+# output_name = "my_run_label"
+
+# Modules to run
+electricity = true
+hydrogen = true
+residential = true
+
+# Combination solve options
+force_10 = false
+tol = 0.05
+max_iter = 12
+
+# Temporal resolution (inter-annual)
+sw_temporal = "default"  # choices: "default", "d8h12", "d4h24", or custom
+
+# Temporal resolution (annual)
+start_year = 2023
+years = [2025, 2030]
+
+# Spatial resolution
+regions = [1]  # replace with valid region IDs
+
+
+###################################################################################################
+# Electricity Inputs
+
+# Switches (0 = off, 1 = on unless noted)
+sw_trade = 1
+sw_expansion = 1
+sw_rm = 1
+sw_ramp = 0
+sw_reserves = 1
+
+# Aggregate years
+sw_agg_years = 1
+
+# Learning
+sw_learning = 0
+
+[electricity_expansion_overrides]
+"Coal Steam" = true
+"Oil Steam" = true
+"Natural Gas Combustion Turbine" = true
+"Natural Gas Combined-Cycle" = true
+"Hydrogen Turbine" = true
+"Nuclear" = true
+"Biomass" = true
+"Geothermal" = true
+"Municipal Solid Waste" = true
+"Hydroelectric Generation" = true
+"Pumped Hydroelectric Storage" = true
+"Battery Energy Storage" = true
+"Wind Offshore" = true
+"Wind Onshore" = true
+"Solar" = true
+
+[electricity_incentives]
+# Example production incentive entry (uncomment to use):
+# [[electricity_incentives.production]]
+# technology = "Solar"
+# year = 2025
+# credit_per_mwh = 20.0
+# limit_mwh = 100000.0
+#
+# Example investment incentive entry (uncomment to use):
+# [[electricity_incentives.investment]]
+# technology = "Wind Onshore"
+# year = 2025
+# credit_per_mw = 75000.0
+# limit_mw = 500.0
+
+
+###################################################################################################
+# Residential Inputs
+
+scale_load = "enduse"
+view_regions = [1]
+view_years = [2025]
+
+# Sensitivity
+sensitivity = false
+change_var = "price"
+percent_change = 0
+complex = false
+
+
+###################################################################################################
+# Hydrogen Inputs
+
+h2_data_folder = "input/hydrogen/all_regions"
+
+
+###################################################################################################
+# Carbon Policy Inputs
+
+# Legacy root-level carbon cap (short tons, converted internally)
+# carbon_cap = 0
+
+# Define one or more carbon cap groups
+[[carbon_cap_groups]]
+name = "default"
+cap = "none"  # "none" disables cap; set numeric value to enable
+regions = [1]  # replace with region IDs
+allowance_procurement = { "2025" = 0.0, "2030" = 0.0 }
+start_bank = 0.0
+bank_enabled = true
+allow_borrowing = false
+
+# Example of nested table format (alternative style)
+[carbon_cap_groups.national]
+description = "Default national carbon cap group"
+
+# Annual allowance market defaults (override per analysis as needed)
+[allowance_market]
+type = "annual"
+enabled = false
+ccr1_enabled = true
+ccr2_enabled = true
+resolution = "annual"
+cap = {}
+floor = {}
+ccr1_trigger = {}
+ccr1_qty = {}
+ccr2_trigger = {}
+ccr2_qty = {}
+cp_id = {}
+bank0 = 0.0
+annual_surrender_frac = 0.5
+carry_pct = 1.0
+# Uncomment to automatically mark every Nth year for full compliance
+# control_period_years = 3
+full_compliance_years = []
+
+###################################################################################################
+# Residential Inputs
+
+scale_load = "enduse"
+view_regions = [1]
+view_years = [2025]
+
+# Sensitivity
+sensitivity = false
+change_var = "price"
+percent_change = 0
+complex = false
+
+###################################################################################################
+# Hydrogen Inputs
+
+h2_data_folder = "input/hydrogen/all_regions"

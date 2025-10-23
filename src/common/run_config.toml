@@ -1,0 +1,178 @@
+# RUN CONFIGURATIONS
+# This file is used to establish the main model configurations users can edit when running
+
+###################################################################################################
+# Universal Inputs
+
+# Mode choices=['unified-combo','gs-combo','standalone']
+# 'standalone' runs each selected module independently
+# 'unified-combo' iteratively solves a unified combination of modules
+# 'gs-combo' solves a combination of modules using Gauss-Seidel method
+# The default mode is only used when --mode argument is not passed by the user when running main.py
+default_mode = "gs-combo"
+
+# Optional: override the deterministic output directory name used for results
+# output_name = "my_run_label"
+
+# Modules to run
+electricity = true # specify true or false (lowercase)
+hydrogen = true    # specify true or false (lowercase)
+residential = true # specify true or false (lowercase)
+
+# Choices for combination solves
+force_10 = false   # forces 10 iterations in solves that iterate, specify true or false (lowercase)
+tol = 0.05         # percent tolerance allowed between iterations, specify a number less than 1
+max_iter = 12      # max number of iterations 
+
+# Temporal resolution (inter-annual) 
+# default = 16 representative (rep) days and 4 rep hours  
+# d8h12 = 8 rep days and 12 rep hours, d4h24 = 4 rep days and 24 rep hours, or custom  
+sw_temporal = "default"
+
+# Temporal resolution (annual)
+# list format, cannot be less than or greater than input data (e.g., 2023-2050)
+start_year = 2023 # start year only needed if sw_agg is turned on 
+years = [2025, 2030] # representative year mapping switches
+
+# Spatial resolution
+# list format, identifiers must match those defined in regions.REGIONS
+regions = [7, 8, 9] # select canonical region identifiers
+
+
+###################################################################################################
+# Electricity Inputs
+
+## Electricity feature switches
+## Unless otherwise specified, 0=off, 1=on
+
+sw_trade = 1       # Interregional trade switch
+sw_expansion = 1   # Capacity expansion/retirement switch
+sw_rm = 1          # Reserve margin requirement switch
+sw_ramp = 0        # Maximum ramping constraint switch
+sw_reserves = 1    # Operating reserve requirement switch
+
+# Aggregate years switch
+# When on, representative years are aggregated and weighted based on unselected years
+sw_agg_years = 1
+
+# Capital cost technology learning switch
+# Turning this feature on, capital cost can be a function of the amount of capacity built by technology.
+# 0 = exogenous learning, 1 = iterative linear function, 2 = nonlinear function
+sw_learning = 0
+
+[electricity_expansion_overrides]
+"Coal Steam" = true
+"Oil Steam" = true
+"Natural Gas Combustion Turbine" = true
+"Natural Gas Combined-Cycle" = true
+"Hydrogen Turbine" = true
+"Nuclear" = true
+"Biomass" = true
+"Geothermal" = true
+"Municipal Solid Waste" = true
+"Hydroelectric Generation" = true
+"Pumped Hydroelectric Storage" = true
+"Battery Energy Storage" = true
+"Wind Offshore" = true
+"Wind Onshore" = true
+"Solar" = true
+
+[electricity_incentives]
+# Add production or investment incentives below using the documented format.
+# Example entries:
+# [[electricity_incentives.production]]
+# technology = "Solar"
+# year = 2025
+# credit_per_mwh = 20.0
+# limit_mwh = 100000.0
+#
+# [[electricity_incentives.investment]]
+# technology = "Wind Onshore"
+# year = 2025
+# credit_per_mw = 75000.0
+# limit_mw = 500.0
+
+###################################################################################################
+# Carbon Policy Inputs
+
+# Provide the carbon cap in short tons; values are converted to metric tons internally.
+# carbon_cap = 0
+# NOTE: These legacy keys are optional. If present, they will be folded into the default cap group.
+
+###################################################################################################
+# Residential Inputs
+
+# Select the method for projecting future electricity demand (e.g., "annual" or "enduse")
+# "annual" will scale the base year electricity demand by an annual scalar value
+# "enduse" will scale the base year electricity demand by hourly enduse demand profiles
+scale_load = "enduse"
+
+# Select the regions and years you want to graph at the end of the run.
+view_regions = [7] # Any subset of available regions to be displayed in a graph
+view_years = [2025] # Any subset of available years to be displayed in a graph
+
+### Sensitivity Inputs
+
+sensitivity = true # Set to true to run estimates for changes in Load due to changes in another variable
+# Effect Variable options=['price','p_elas','income','i_elas','trendGR']
+# The default variable to change is 'price'. This will be altered up and down by the percentage given
+# percent_change should be a number between 0 - 100 (eg. 5 would be read as 5% or 0.05)
+change_var = "price"
+percent_change = 5
+
+# Sensitivity Method: Choose analytical derivative method with false or complex step derivative with true
+complex = true
+
+###################################################################################################
+# Hydrogen Inputs
+
+h2_data_folder = "input/hydrogen/all_regions"
+
+
+###################################################################################################
+# Carbon Policy Group Definitions
+
+# Define one or more carbon cap groups that specify the cap and allowance
+# banking behaviour for the associated regions.
+[[carbon_cap_groups]]
+name = "default"
+cap = "none" # Set to "none" for no cap, or numeric value for a cap
+regions = [7, 8, 9]
+allowance_procurement = { "2025" = 50000000.0, "2030" = 40000000.0 }
+start_bank = 0.0
+bank_enabled = true
+allow_borrowing = false
+
+# You can add more groups if needed, for example:
+# [[carbon_cap_groups]]
+# name = "industrial"
+# cap = 10000000.0
+# regions = [9]
+# allowance_procurement = { "2025" = 2500000.0 }
+# start_bank = 1.0
+# bank_enabled = false
+# allow_borrowing = true
+
+# Example of nested carbon cap groups if needed
+[carbon_cap_groups.national]
+description = "Default national carbon cap group"
+
+[allowance_market]
+type = "annual"
+enabled = false
+ccr1_enabled = true
+ccr2_enabled = true
+resolution = "annual"
+cap = {}
+floor = {}
+ccr1_trigger = {}
+ccr1_qty = {}
+ccr2_trigger = {}
+ccr2_qty = {}
+cp_id = {}
+bank0 = 0.0
+annual_surrender_frac = 0.5
+carry_pct = 1.0
+# Uncomment to automatically mark every Nth year for full compliance
+# control_period_years = 3
+full_compliance_years = []
